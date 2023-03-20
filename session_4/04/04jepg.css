@@ -1,0 +1,30 @@
+.all{
+width: 470px;
+border: 1px solid rgb(79, 69, 69);
+}
+
+.heading, .content, .select, .link{
+    width: 100%;   
+}
+
+.heading{
+    /* margin-left: 10px; */
+
+}
+
+/* .content{
+    word-wrap: break-word;
+
+} */
+.content .text{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.select .one, .two, .three {
+    padding-left: 10px;
+}
+
+.link .firstlink, .secondlink {
+    padding-left: 10px;
+}

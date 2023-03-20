@@ -1,0 +1,36 @@
+.modal1{
+    
+
+}
+
+.header{
+
+}
+
+.headercontent{
+
+}
+
+.content{
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+
+}
+
+.headercontent{
+
+}
+
+.button{
+    padding: ;
+
+}
+.buttoncontent{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    margin-top: 15px;
+    float: right;
+    margin-right: 5px;
+    border-radius: 3px;
+}

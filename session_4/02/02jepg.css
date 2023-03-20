@@ -1,0 +1,68 @@
+.heading{
+
+}
+
+.subheading{
+
+
+}
+
+.text-align{
+    color: red;
+    background-color: aliceblue;
+
+}
+
+.box1{
+    border: 5px solid green;
+    text-align: center;
+
+}
+
+.box2{
+    background-color: azure;
+    padding: 15px;
+    margin: 0px;
+
+}
+
+.box2_1{
+    border-left: 7px solid green;
+    background-color: white;
+    padding: 1px  ;
+    
+}
+
+.center1{
+    color: brown;
+
+}
+
+.text-align1{
+    color: red;
+    padding-left: 15px;
+
+}
+
+.center2{
+    color: blue;
+}
+
+.border{
+    color: red;
+    padding-left: 15px;
+
+}
+
+.borderdec{
+    color: blue;
+
+}
+
+.button{
+    border: 10px solid green;
+    border-radius: 5px;
+    color: white;
+    background-color: green;
+
+}
